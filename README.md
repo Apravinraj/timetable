@@ -106,5 +106,18 @@ Execute the program
 # OUPUT
 ![Screenshot_20230118_064056](https://user-images.githubusercontent.com/118707879/213180664-e9bbc4cc-0687-4599-95e0-b808ccd331fd.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Result:
 The program is succesfully completed.
